@@ -18,3 +18,11 @@ while iterations<k
         if thiserr < besterr:
             bestmodel = bettermodel
             besterr = thiserr
+
+Affine Transformation:
+Properties:
+- combines linear transformations and translations
+- origin doesnot necessarily map to origin
+- lines map to lines
+- parallel lines remain parallel
+- 
