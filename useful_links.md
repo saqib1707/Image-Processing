@@ -16,8 +16,10 @@
 [Random sample Consensus](https://en.wikipedia.org/wiki/Random_sample_consensus)
 [stack overflow sticher function problem](http://stackoverflow.com/questions/34362922/how-to-use-opencv-stitcher-class-with-python)
 
+[Blog on Image Stitching by Kushal Vyas](http://kushalvyas.github.io/stitching.html)
 [SIFT video explanation by Columbia University prof](https://www.youtube.com/watch?v=NPcMS49V5hg)
 [SIFT and Ransac combined explanation](https://www.youtube.com/watch?v=oT9c_LlFBqs)
 [opencv panorama stitching](http://www.pyimagesearch.com/2016/01/11/opencv-panorama-stitching)
+[image-quality qualitative analysis](https://www.youtube.com/watch?v=FJwhHFM0oDo&t=331s)
 
-In my experience - Had C++ in my 11th and 12th standard, did summer of code in my first summer under Ranveer Aggarwal, made calculator in python using pyQt library, made a memory puzzle game in python using pygame, learnt  image processing  in summer 2016, active contributor to kivy organization (open source development) since December 2016.    
+In my experience - Did Institute Summer of Code in Summer 2016 under Mentor-Ranveer Aggarwal, Made a calculator(GUI) in python using PyQt library, Made a Memory puzzle game in python using pygame library, Participated in Microsoft Code.Fun.Do 2015 as well as 2016, Active contributor to kivy organization(open source development) since December 2016, Applied for Google Summer of Code 2017(not selected though).   
