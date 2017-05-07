@@ -22,4 +22,4 @@
 [opencv panorama stitching](http://www.pyimagesearch.com/2016/01/11/opencv-panorama-stitching)<br>
 [image-quality qualitative analysis](https://www.youtube.com/watch?v=FJwhHFM0oDo&t=331s)<br>
 [image-quality quantitative analysis](http://live.ece.utexas.edu/publications/2002/zw_icassp2002_whyqa.pdf)<br>
-[parallel computing in python](http://calcul.math.cnrs.fr/Documents/Ecoles/2010/cours_multiprocessing.pdf)<br>
+[Parallel Computing in Python](http://sebastianraschka.com/Articles/2014_multiprocessing.html)
