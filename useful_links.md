@@ -21,5 +21,7 @@
 [SIFT and Ransac combined explanation](https://www.youtube.com/watch?v=oT9c_LlFBqs)
 [opencv panorama stitching](http://www.pyimagesearch.com/2016/01/11/opencv-panorama-stitching)
 [image-quality qualitative analysis](https://www.youtube.com/watch?v=FJwhHFM0oDo&t=331s)
+[image-quality quantitative analysis](http://live.ece.utexas.edu/publications/2002/zw_icassp2002_whyqa.pdf)
+[parallel computing in python](http://calcul.math.cnrs.fr/Documents/Ecoles/2010/cours_multiprocessing.pdf)
 
 In my experience - Did Institute Summer of Code in Summer 2016 under Mentor-Ranveer Aggarwal, Made a calculator(GUI) in python using PyQt library, Made a Memory puzzle game in python using pygame library, Participated in Microsoft Code.Fun.Do 2015 as well as 2016, Active contributor to kivy organization(open source development) since December 2016, Applied for Google Summer of Code 2017(not selected though).   
