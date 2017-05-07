@@ -45,13 +45,9 @@ if __name__ == '__main__':
 Use for:
 1. launching different tasks in parallel<br>
 2. launching tasks with more than one argument<br>
-3. better control of task distribution<br>
 
 ### Shared Memory
 Under Unix, it is possible to share blocks of memory between processes. This eliminates the serialization overhead. Multiprocessing can create shared memory blocks containing C variables and C arrays. A NumPy extension adds shared NumPy arrays. It it not possible to share arbitrary Python objects.
-Caveats:
-1. Portability: there is no shared memory under Windows.
-2. If you care about your mental sanity, don’t modify shared memory contents in the slave processes. You will end up debugging race conditions. Use shared memory only to transfer data from the master to the slaves!
 
 ```python
 from multiprocessing import Pool
