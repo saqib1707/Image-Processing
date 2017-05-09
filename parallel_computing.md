@@ -1,3 +1,23 @@
+**Multiprocessor/Multicore:** Several processors work on data stored in the shared memory<br>
+**Co-processor :** The general purpose processor delegates specific tasks to special purpose processors (GPU, FPGA)<br>
+**parallelism :** Using multiple processors to make the computation faster.<br>
+**Concurrency :** make multiple tasks to proceed without waiting for each other.<br>
+
+Parallel Computing : 
+1. Decomposition of the complete task into independent subtasks and data flow between them.
+2. Distribution of the independent subtasks over the processors minimizing the total execution time.
+3. Synchronization of the individual processes is important.
+4. Attributing equal workloads to all processors
+
+### Synchronization issues
+1. Deadlock : Two processes waiting for each other to finish
+2. Race condition : Two or more processes modify a shared resource( e.g, variable, file) and the result depends on which processor comes first. 
+
+### task farming:
+1. One master process supervises the execution of the program. It defines independent tasks and puts them on a to-do list. It also collects the results of these tasks.
+2. Any number of slave processes each take a task from the to-do list, execute it and put the result into the master's mailbox. 
+3. One advantage is that - no deadlocks since only the master process is waiting for another process to finish.
+
 An example of parallel computing is as follows:<br>
 ```python
 from multiprocessing import Pool
@@ -16,7 +36,7 @@ Simple explanation of the above code--<br>
 3. Each slave process takes a task (function + a chunk of data) from the todo list, runs map(function,chunk), and puts the result in a results list.
 4. The master process waits until all tasks are handled and returns the concatenation of the results list.<br>
 
-The todo list is actually a queue and must be accessible by all processes(master and slaves).The todo list is stored in the master process. A special thread of the master process waits for the task requests from slave processes and returns the task function and arguments. This requires serialization.
+The todo list is actually a queue and must be accessible by all processes(master and slaves).The todo list is stored in the master process and its access must be synchronized. A special thread of the master process waits for the task requests from slave processes and returns the task function and arguments. This requires serialization.
 
 ### Difference between processes and threads 
 A process consists of-
