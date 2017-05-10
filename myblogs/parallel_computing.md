@@ -44,7 +44,7 @@ A process consists of-
 - one or more threads that execute code independently but work on the same memory. 
 
 **Multithreading :** using multiple threads in the same process for concurrency or parallelism.<br>
-**Multiprocessing :**using multiple processes with separate memory spaces for concurrency or parallelism.<br>
+**Multiprocessing:** using multiple processes with separate memory spaces for concurrency or parallelism.<br>
 
 ### Explicit Task Definition
 ```python
