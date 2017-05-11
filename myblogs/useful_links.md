@@ -22,9 +22,9 @@
 [opencv panorama stitching](http://www.pyimagesearch.com/2016/01/11/opencv-panorama-stitching)<br>
 [image-quality qualitative analysis](https://www.youtube.com/watch?v=FJwhHFM0oDo&t=331s)<br>
 [image-quality quantitative analysis](http://live.ece.utexas.edu/publications/2002/zw_icassp2002_whyqa.pdf)<br>
-[Parallel Computing in Python](http://sebastianraschka.com/Articles/2014_multiprocessing.html)
+[Parallel Computing in Python](http://sebastianraschka.com/Articles/2014_multiprocessing.html)<br>
 
-[opencv and python k-means clustering](http://www.pyimagesearch.com/2014/05/26/opencv-python-k-means-color-clustering/)
-[Hobbits and Histograms — A How-To Guide to Building Your First Image Search Engine in Python](http://www.pyimagesearch.com/2014/01/27/hobbits-and-histograms-a-how-to-guide-to-building-your-first-image-search-engine-in-python/)
-[Deep Learning on Amazon EC2 GPU with Python and nolearn](http://www.pyimagesearch.com/2014/10/13/deep-learning-amazon-ec2-gpu-python-nolearn/)
-[Super fast color transfer between images](http://www.pyimagesearch.com/2014/06/30/super-fast-color-transfer-images/)
+[opencv and python k-means clustering](http://www.pyimagesearch.com/2014/05/26/opencv-python-k-means-color-clustering/)<br>
+[Hobbits and Histograms — A How-To Guide to Building Your First Image Search Engine in Python](http://www.pyimagesearch.com/2014/01/27/hobbits-and-histograms-a-how-to-guide-to-building-your-first-image-search-engine-in-python/)<br>
+[Deep Learning on Amazon EC2 GPU with Python and nolearn](http://www.pyimagesearch.com/2014/10/13/deep-learning-amazon-ec2-gpu-python-nolearn/)<br>
+[Super fast color transfer between images](http://www.pyimagesearch.com/2014/06/30/super-fast-color-transfer-images/)<br>
