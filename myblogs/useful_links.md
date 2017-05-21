@@ -23,8 +23,11 @@
 [image-quality qualitative analysis](https://www.youtube.com/watch?v=FJwhHFM0oDo&t=331s)<br>
 [image-quality quantitative analysis](http://live.ece.utexas.edu/publications/2002/zw_icassp2002_whyqa.pdf)<br>
 [Parallel Computing in Python](http://sebastianraschka.com/Articles/2014_multiprocessing.html)<br>
+[Youtube video series on DIP](https://www.youtube.com/watch?v=Gu9mSHwI3ec&list=PLuh62Q4Sv7BUf60vkjePfcOQc8sHxmnDX&index=5)<br>
 
 [opencv and python k-means clustering](http://www.pyimagesearch.com/2014/05/26/opencv-python-k-means-color-clustering/)<br>
 [Hobbits and Histograms — A How-To Guide to Building Your First Image Search Engine in Python](http://www.pyimagesearch.com/2014/01/27/hobbits-and-histograms-a-how-to-guide-to-building-your-first-image-search-engine-in-python/)<br>
 [Deep Learning on Amazon EC2 GPU with Python and nolearn](http://www.pyimagesearch.com/2014/10/13/deep-learning-amazon-ec2-gpu-python-nolearn/)<br>
 [Super fast color transfer between images](http://www.pyimagesearch.com/2014/06/30/super-fast-color-transfer-images/)<br>
+[segfault in sift detector](http://stackoverflow.com/questions/17674938/python-opencv-feature-detector-causes-segmentation-fault)<br>
+[Hough Transformation explanation](http://docs.opencv.org/3.0-beta/doc/py_tutorials/py_imgproc/py_houghlines/py_houghlines.html)<br>
