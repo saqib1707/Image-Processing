@@ -1,0 +1,9 @@
+../images/medical_images/Slide4_1/image_482.jpg
+../images/medical_images/Slide4_1/image_483.jpg
+../images/medical_images/Slide4_1/image_484.jpg
+../images/medical_images/Slide4_1/image_485.jpg
+../images/medical_images/Slide4_1/image_486.jpg
+../images/medical_images/Slide4_1/image_487.jpg
+../images/medical_images/Slide4_1/image_488.jpg
+../images/medical_images/Slide4_1/image_489.jpg
+../images/medical_images/Slide4_1/image_490.jpg
